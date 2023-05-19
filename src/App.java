@@ -8,7 +8,7 @@ public class App {
         // to read from the terminal we use System.in
         Scanner scanner = new Scanner(System.in);
         
-        // he we use just "print" so that the input can be added in the same line.
+        // here we use just "print" so that the input can be added in the same line.
         System.out.print("Age: ");
 
         // here we store the input with the type of the input
